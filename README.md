@@ -143,3 +143,4 @@ npm run dev
     -   `POST /realtime/broadcast`: 全員へのイベント同時配信を要求
     -   `POST /realtime/enable_action`: リアルタイムアクションの受付開始/終了を要求
     -   `POST /game/next_phase`: ゲームの次のフェーズへの移行を要求
+# rust_game_center
