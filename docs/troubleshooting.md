@@ -33,7 +33,7 @@
 
 - **エラーメッセージ:** `command not found: npm` または `npm: command not found`
   - **原因:** Node.jsとnpmがインストールされていません。
-  - **解決策:** Node.jsの公式サイトからインストールしてください。
+  - **解決策:** [Node.js 公式サイト](https://nodejs.org/) からインストールしてください。
 - **エラーメッセージ:** `Cannot find package.json` または `Error: ENOENT: no such file or directory, open '.../package.json'`
   - **原因:** `npm install` または `npm run dev` コマンドを `frontend` ディレクトリの外部で実行しています。
   - **解決策:** `cd frontend` で `frontend` ディレクトリに移動してからコマンドを実行してください。
