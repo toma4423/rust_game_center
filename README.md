@@ -144,3 +144,4 @@ npm run dev
     -   `POST /realtime/enable_action`: リアルタイムアクションの受付開始/終了を要求
     -   `POST /game/next_phase`: ゲームの次のフェーズへの移行を要求
 # rust_game_center
+# rust_game_center
